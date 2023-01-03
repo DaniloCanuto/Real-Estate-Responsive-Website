@@ -162,7 +162,7 @@ ul {
     }
  
     li:not(:last-child) {
-        border-bottom: 1px dotted #a190b6;
+        border-bottom: 1px dotted #D1F5BE;
     }  
 }
 
